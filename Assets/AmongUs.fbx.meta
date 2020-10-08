@@ -70,7 +70,7 @@ ModelImporter:
     4300014: GlassesStroke
     4300016: BodyStroke
     4300018: PaperStroke
-    7400000: AmongUsArmature|ArmatureAction
+    7400000: AmongCaminando
     9500000: //RootNode
     13700000: Arms
     13700002: Arms.001
@@ -110,7 +110,7 @@ ModelImporter:
     extraUserProperties: []
     clipAnimations:
     - serializedVersion: 16
-      name: AmongUsArmature|ArmatureAction
+      name: AmongCaminando
       takeName: AmongUsArmature|ArmatureAction
       firstFrame: 0
       lastFrame: 12
